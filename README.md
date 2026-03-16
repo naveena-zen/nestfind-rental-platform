@@ -90,7 +90,7 @@ Open **http://localhost:3000** in your browser.
 
 ---
 
-## 🔑 Demo Credentials
+## Demo Credentials
 
 | Role     | Email                  | Password |
 |----------|------------------------|----------|
@@ -132,7 +132,7 @@ Open **http://localhost:3000** in your browser.
 
 ---
 
-## 🌱 Future Scope
+## Future Scope
 
 - JWT-based authentication with secure sessions
 - Image upload for property listings
