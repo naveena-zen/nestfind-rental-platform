@@ -4,14 +4,14 @@ A full-stack property rental platform built with **Node.js**, **Express.js**, **
 
 ---
 
-## ✨ Features
+## Features
 
-### 🔐 Authentication
+### Authentication
 - User registration and login (Tenant / Landlord roles)
 - Role-based dashboard routing
 - Demo accounts for quick access
 
-### 🏡 Tenant
+### Tenant
 - Browse and search properties by location, type, and rent range
 - View property details — beds, baths, area, amenities
 - Book properties with start/end date (conflict detection)
@@ -19,7 +19,7 @@ A full-stack property rental platform built with **Node.js**, **Express.js**, **
 - Raise maintenance requests with category and description
 - Dashboard with stats — total bookings, active, pending, open maintenance
 
-### 🔑 Landlord
+### Landlord
 - Add new property listings with full details and amenities
 - Delete existing listings
 - View and manage all booking requests (Confirm / Reject)
@@ -28,7 +28,7 @@ A full-stack property rental platform built with **Node.js**, **Express.js**, **
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer      | Technology                  |
 |------------|-----------------------------|
@@ -40,7 +40,7 @@ A full-stack property rental platform built with **Node.js**, **Express.js**, **
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 nestfind/
@@ -51,7 +51,7 @@ nestfind/
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js installed
@@ -59,7 +59,7 @@ nestfind/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/nestfind.git
+git clone https://github.com/naveena-zen/nestfind.git
 cd nestfind
 ```
 
